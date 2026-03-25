@@ -1,1 +1,0 @@
-azure failed but github static deployment works
